@@ -5,7 +5,7 @@
  * Domain Path: /Languages/
  * Plugin URI: https://blessingudor.com
  * Description: Pay with Demo Credit Card
- * Author: Blessing Udor []
+ * Author: Blessing Udor
  * Author URI: https://blessingudor.com
  * Version: 0.0.1
  * WC requires at least: 3.0.0
